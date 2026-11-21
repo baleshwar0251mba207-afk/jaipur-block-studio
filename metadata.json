@@ -1,0 +1,6 @@
+{
+  "name": "Jaipur Block Studio",
+  "description": "Handmade Jaipur block-printed cotton cushion covers crafted by Indian artisans for modern UK homes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
